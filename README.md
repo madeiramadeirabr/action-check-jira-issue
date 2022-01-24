@@ -16,7 +16,7 @@ Irá compor a estrutura padrão que está sendo desenvolvida para o CI/CD da [Ma
 > Issue precisa ser setada entre parênteses no Título da Pull Request:
 > _Exemplo:_ feat(**SRE-417**): implements Swagger.
 
-2. Secrets `BASIC_AUTH_JIRA` no Repositório 
+2. Uso da Secret Global `GLOBALS_SRE_BASIC_AUTH_JIRA` 
 
 ## Exemplos de uso (da action):
 
@@ -50,5 +50,5 @@ jobs:
         uses: madeiramadeirabr/action-check-jira-issue@v1
         with:
           url-jira:  'https://madeiramadeira.atlassian.net/rest/api/3/issue/${{ steps.title.outputs.TITLE }}'
-          basic-auth: ${{ secrets.BASIC_AUTH_JIRA }}          
+          basic-auth: ${{ secrets.GLOBALS_SRE_BASIC_AUTH_JIRA }}          
 ```
