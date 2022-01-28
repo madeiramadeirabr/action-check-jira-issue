@@ -1,11 +1,10 @@
-
 <svg
    width="1440px"
    height="360px"
    viewBox="0 0 1440 360"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="Action validate deploy date.svg"
+   sodipodi:docname="Action Check Jira Issue.svg"
    inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,7 +22,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="804.5"
+     inkscape:cx="948.5"
      inkscape:cy="147.5"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
@@ -245,12 +244,12 @@
          id="path1416" />
       <path
          fill="#ffffff"
-         d="M -120,-30 H 1320.0001 V 330 H -120 Z"
+         d="M -120.0001,-30 H 1320 V 330 H -120.0001 Z"
          id="path1418" />
       <path
          stroke-linecap="round"
          fill="none"
-         d="m 1391.9255,-294.81305 1.8246,693.25438"
+         d="m 1572.8833,-160.65558 -693.25621,0.90416"
          stroke="#7bb7ff"
          id="path1428"
          style="stroke-width:4.02244" />
@@ -264,45 +263,45 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:Loma;letter-spacing:0.79px;word-spacing:-5.35px;opacity:0.501846;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter146486)"
-         x="553.11078"
-         y="88.942215"
+         x="654.89838"
+         y="85.223099"
          id="text4474"><tspan
            sodipodi:role="line"
            id="tspan4472"
-           x="553.11078"
-           y="88.942215">Action Validate Deploy Date</tspan></text>
+           x="654.89838"
+           y="85.223099">Action Check Jira Issue</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:Loma;-inkscape-font-specification:'Loma Bold';letter-spacing:0.79px;word-spacing:-5.35px;fill:#2188ff;fill-opacity:1;stroke:none"
-         x="551.854"
-         y="86.362488"
+         x="653.6416"
+         y="82.643372"
          id="text4474-3"><tspan
            sodipodi:role="line"
            id="tspan4472-8"
-           x="551.854"
-           y="86.362488">Action Validate Deploy Date</tspan></text>
+           x="653.6416"
+           y="82.643372">Action Check Jira Issue</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:1.24px;word-spacing:-1.1px;opacity:0.390136;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter270132)"
-         x="334.38525"
-         y="235.36098"
+         x="432.72418"
+         y="225.79402"
          id="text194839-9"><tspan
            sodipodi:role="line"
            id="tspan194837-6"
-           x="334.38525"
-           y="235.36098"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Loma;-inkscape-font-specification:'Loma Bold';fill:#000000;fill-opacity:1">Action to validate the programmed Deploy date through Jira</tspan></text>
+           x="432.72418"
+           y="225.79402"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Loma;-inkscape-font-specification:'Loma Bold';fill:#000000;fill-opacity:1">Action that validates the existence of the issue in Jira</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;letter-spacing:1.24px;word-spacing:-1.1px;fill:#2188ff;fill-opacity:1;stroke:none"
-         x="333.09818"
-         y="236.10403"
+         x="431.4371"
+         y="226.53708"
          id="text194839"><tspan
            sodipodi:role="line"
            id="tspan194837"
-           x="333.09818"
-           y="236.10403"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Loma;-inkscape-font-specification:'Loma Bold';fill:#2188ff;fill-opacity:1">Action to validate the programmed Deploy date through Jira</tspan></text>
+           x="431.4371"
+           y="226.53708"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:Loma;-inkscape-font-specification:'Loma Bold';fill:#2188ff;fill-opacity:1">Action that validates the existence of the issue in Jira</tspan></text>
       <g
          clip-path="url(#c)"
          id="g1426"
