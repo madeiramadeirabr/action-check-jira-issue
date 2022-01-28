@@ -1,4 +1,4 @@
-![img](https://github.com/madeiramadeirabr/action-check-jira-issue/blob/production/img/action-check-jira-issue.svg)
+![img](https://raw.githubusercontent.com/madeiramadeirabr/action-check-jira-issue/5034262eb8b9774e548fbe641b5a8418d9215af2/img/action-check-jira-issue.svg)
 # action-check-jira-issue
 
 ## Descrição:
