@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: action-check-jira-issue
+  description: |
+    Github Action utilizada para validar a existência de uma issue no JIRA com base em seu prefixo.
+  annotations:
+    github.com/project-slug: madeiramadeirabr/action-check-jira-issue
+    sonarqube.org/project-key: madeiramadeirabr/action-check-jira-issue
+    backstage.io/techdocs-ref: dir:.
+  tags:
+  - javascript
+  - github-action
+spec:
+  type: library
+  lifecycle: production
+  owner: team-platform-services
